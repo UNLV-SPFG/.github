@@ -1,5 +1,5 @@
 ## Welcome
-To learn more about our research, visit our [homepage](https://UNLV-SPG.github.io).
+To learn more about our ongoing research, visit our [homepage](https://UNLV-SPG.github.io).
 
 ## Resources
 Getting started with computational research? Check out our [wiki guides](https://github.com/UNLV-SPG/technical-resources/wiki) and [technical resources](https://github.com/UNLV-SPG/technical-resources).
