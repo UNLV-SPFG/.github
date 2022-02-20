@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/UNLV-SPFG/.github/blob/main/images/banner.png) 
+[![Open Source at Microsoft](https://github.com/UNLV-SPFG/.github/blob/main/images/banner.png)](https://unlv-spfg.github.io)
 
 ## Welcome
 To learn more about our ongoing research, visit our [homepage](https://unlv-spfg.github.io).
